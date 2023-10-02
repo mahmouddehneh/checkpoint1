@@ -1,0 +1,14 @@
+C:\Users\new\source\repos\cheack point 1\cheack point 1\bin\Debug\net6.0\cheack point 1.exe
+C:\Users\new\source\repos\cheack point 1\cheack point 1\bin\Debug\net6.0\cheack point 1.deps.json
+C:\Users\new\source\repos\cheack point 1\cheack point 1\bin\Debug\net6.0\cheack point 1.runtimeconfig.json
+C:\Users\new\source\repos\cheack point 1\cheack point 1\bin\Debug\net6.0\cheack point 1.dll
+C:\Users\new\source\repos\cheack point 1\cheack point 1\bin\Debug\net6.0\cheack point 1.pdb
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.AssemblyInfoInputs.cache
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.AssemblyInfo.cs
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.csproj.CoreCompileInputs.cache
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.dll
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\refint\cheack point 1.dll
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.pdb
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\cheack point 1.genruntimeconfig.cache
+C:\Users\new\source\repos\cheack point 1\cheack point 1\obj\Debug\net6.0\ref\cheack point 1.dll
